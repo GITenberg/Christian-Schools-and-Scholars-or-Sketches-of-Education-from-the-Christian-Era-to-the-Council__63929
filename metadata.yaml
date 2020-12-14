@@ -1,0 +1,36 @@
+_repo: Christian-Schools-and-Scholars-or-Sketches-of-Education-from-the-Christian-Era-to-the-Council__63929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drane, Augusta Theodosia
+    aliases:
+    - Drane, A. T. (Augusta Theodosia)
+    - Francis Raphael, Mother
+    - Drane, Francis Raphael, Mother
+    - Raphael, Francis, Mother
+    - Drane, Augusta T. (Augusta Theodosia)
+    birthdate: 1823
+    deathdate: 1894
+    gutenberg_agent_id: '52670'
+    url: http://www.gutenberg.org/2009/agents/52670
+    wikipedia: https://en.wikipedia.org/wiki/Augusta_Theodosia_Drane
+description: ''
+gutenberg_issued: '2020-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63929'
+  lccn: e11000024
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church and education'
+- !lcsh 'Scholasticism'
+- !lcsh 'Renaissance'
+- !lcsh 'Education -- Europe -- History'
+- !lcc 'LA'
+- GITenberg
+title: "Christian Schools and Scholars\r\nor, Sketches of Education from the Christian\
+  \ Era to the Council of Trent"
+url: http://www.gutenberg.org/ebooks/63929
